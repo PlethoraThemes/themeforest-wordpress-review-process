@@ -1,2 +1,1 @@
-# themeforest-wordpress-review-process
-Links and resources regarding the experience of the ThemeForest review process on Wordpress themes
+# Links and Resources about the ThemeForest Wordpress Review Process
